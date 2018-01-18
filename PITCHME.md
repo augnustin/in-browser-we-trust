@@ -1,12 +1,155 @@
 ---?image=assets/image/ivan_televnyy.jpg
 
-# Timber
+# In browser we trust
 
-### A GitPitch Presentation Template
+### Tame the beast!
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## Tips!
+## Embrace the Web's openess
+
+1. Easier to code
+2. Easier to debug
+3. Easier to publish & update
+
+It's perfect then?
+
+Everything comes at a cost, we'll finish with the tradeoffs.
+
+---
+
+## 1. > You know HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Page Title</title>
+</head>
+<body>
+  <h1>My Title</h1>
+  <p>My paragraph</p>
+</body>
+</html>
+```
+
+HTML is the **semantic** description of the page.
+
+---
+
+## 1. > You know CSS, right?
+
+```
+  body {
+    background-color: #eee;
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 15px;
+  }
+
+  h1 {
+    color: blue;
+  }
+```
+
+CSS describes the styling rules of the page (color, sizes, positions etc. etc.).
+
+---
+
+## 1. > Move your body
+
+But this is all very static.
+
+How can I bring life to my webpage? |
+
+Javascript of course!
+
+JS **is** the web's language
+
+---
+
+## 1. > Have you tried JS?
+
+```javascript
+
+var newTitle = function(title) {
+  document.title = title;
+  document.querySelector('h1').innerText = title;
+};
+
+var delayedNewTitle = function(title, delayInMilliSeconds){
+  setTimeout(function(){
+    newTitle(title);
+  }, delayInMilliSeconds);
+};
+
+newTitle('I changed my title');
+delayedNewTitle('Hello', 1000);
+delayedNewTitle('World', 2000);
+
+```
+
+---
+
+## 1. > Java**Script**
+
+It is a scripting language!
+
+No need to inherit from a specific class, to compile or to predeclare anything.
+
+Freedom!
+
+---
+
+## 2. > Everything's accessible
+
+Let's open a debugger console: type `Ctrl` + `Shift` + `i`.
+
+It is available **on every website**
+
+---
+
+## 2. > What is there?
+
+- DOM (HTML content)
+- Styles (CSS content)
+- Console (JS REPL)
+- Source files
+- Network logguer
+- Performance analyser
+- Memory analyser
+- ... and much more!
+
+=> This is a very powerful tool!
+
+---
+
+## 3. > Publishing
+
+To publish, you basically only need a URL.
+
+=> No need to register to a store
+
+---
+
+## 4. > Caveats
+
+- Browser compatibility
+- JS is flexible, ... too much!
+
+---
+
+## Questions?
+
+
+
+## Architecture
+
+|               | Web           | Mobile  |
+| ------------- |:-------------:| :-----:|
+| Since         | 1990's        | 2007 |
+| Architecture  | Decentralized | Stores (Apps & Google Play) |
+| Technologies  | HTML/CSS/JS   | Objective-C/Swift, Java |
+
 
 <br>
 
@@ -75,7 +218,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
