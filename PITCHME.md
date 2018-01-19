@@ -167,7 +167,18 @@ Let's create a page that displays a Chuck Norris Joke thanks to the [Chuck Norri
 
 ## Go learn it!
 
-Questions?
+Here at **Wild Code School** !
+
+Online (the web is full of resources):
+
+- https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web
+- https://internetingishard.com/html-and-css/introduction/
+- https://learn.shayhowe.com/html-css/
+- etc.
+
+---
+
+## Questions?
 
 @fa[link gp-contact]() https://augustin-riedinger.fr
 
