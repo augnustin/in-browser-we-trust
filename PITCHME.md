@@ -171,7 +171,7 @@ Let's create a page that displays a Chuck Norris Joke.
 
 ## Questions?
 
-@fa[link gp-contact](https://augustin-riedinger.fr)
+@fa[link gp-contact]() https://augustin-riedinger.fr
 
 @fa[twitter gp-contact]() [@augnustin](https://twitter.com/Augnustin)
 
