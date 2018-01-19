@@ -32,6 +32,10 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 <body>
   <h1>My Title</h1>
   <p>My paragraph</p>
+  <img src="image.jpg" alt="My image" />
+  <ul>
+    <li>My list element</li>
+  </ul>
 </body>
 </html>
 ```
