@@ -36,7 +36,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 </html>
 ```
 
-> HTML is the **semantic** description of the page.
+HTML is the **semantic** description of the page.
 
 ---
 
@@ -54,7 +54,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
   }
 ```
 
-> CSS describes the styling rules of the page (color, sizes, positions etc. etc.).
+CSS describes the styling rules of the page (color, sizes, positions etc. etc.).
 
 ---
 
@@ -68,13 +68,12 @@ How can I bring life to my webpage?
 
 <div class="fragment">
 Javascript of course!
-
-JS **is** the web's language
 </div>
 
 ---
 
-## 1. Code > Have you tried JS?
+## 1. Code > JS, the web's language
+
 
 ```javascript
 
@@ -95,17 +94,17 @@ delayedNewTitle('World', 2000);
 
 ```
 
-> Let's try it
+Let's try it
 
 ---?image=assets/image/lukas_blazek.jpg
 
 ## 1. Code > Java**Script**
 
+> "Java and Javascript are similar like Car and Carpet are similar."
+
 It is a scripting language!
 
 No need to inherit from a specific class, to compile or to predeclare anything.
-
-Freedom!
 
 ---?image=assets/image/lukas_blazek.jpg
 
