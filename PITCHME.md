@@ -4,8 +4,6 @@
 
 ### Tame the beast!
 
-> Source code of this presentation: https://gitpitch.com/augnustin/in-browser-we-trust
-
 ---
 
 ## Embrace the Web's openess
@@ -126,8 +124,8 @@ It is available **on every website**
 - Source files |
 - Network logguer |
 - Performance analyser |
-- Memory analyser
-- ... and much more!
+- Memory analyser |
+- ... and much more! |
 
 => This is a very powerful tool!
 
