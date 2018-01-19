@@ -81,17 +81,16 @@ How can I bring life to my webpage?
 It is a **scripting** language!
 
 No need to inherit from a specific class, to compile or to predeclare anything.
-```javascript
-var newTitle = function(title) {
-  document.title = title;
-  document.querySelector('h1').innerText = title;
-};
 
 ---
 
 ## 1. Code > JS, the web's language
 
-
+```javascript
+var newTitle = function(title) {
+  document.title = title;
+  document.querySelector('h1').innerText = title;
+};
 
 var delayedNewTitle = function(title, delayInMilliSeconds){
   setTimeout(function(){ newTitle(title); }, delayInMilliSeconds);
@@ -100,7 +99,6 @@ var delayedNewTitle = function(title, delayInMilliSeconds){
 newTitle('I changed my title');
 delayedNewTitle('Hello', 1000);
 delayedNewTitle('World', 2000);
-
 ```
 
 Let's try it
