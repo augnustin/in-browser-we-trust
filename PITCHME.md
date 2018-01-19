@@ -134,11 +134,11 @@ It is available **on every website**
 ---?image=assets/image/Block-CDN.jpg
 
 <div class="inverted-colors">
-  ## 3. Publish > The URL magic
+  <h2>## 3. Publish > The URL magic</h2>
 
-  To publish, you basically only need a URL.
+  <p>To publish, you basically only need a URL.</p>
 
-  => No need to register to a store
+  <p>=> No need to register to a store</p>
 </div>
 
 ---
