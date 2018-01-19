@@ -124,7 +124,7 @@ It is available **on every website**
 - Memory analyser |
 - ... and much more! |
 
-=> This is a very powerful tool!
+<p class="fragment">=> This is a very powerful tool!</p>
 
 ---?image=assets/image/Block-CDN.jpg
 
