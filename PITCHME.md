@@ -67,7 +67,7 @@ How can I bring life to my webpage?
 ![](assets/image/giphy.gif)
 
 <div class="fragment">
-Javascript of course!
+<strong>Javascript</strong> of course!
 </div>
 
 ---
@@ -76,16 +76,13 @@ Javascript of course!
 
 
 ```javascript
-
 var newTitle = function(title) {
   document.title = title;
   document.querySelector('h1').innerText = title;
 };
 
 var delayedNewTitle = function(title, delayInMilliSeconds){
-  setTimeout(function(){
-    newTitle(title);
-  }, delayInMilliSeconds);
+  setTimeout(function(){ newTitle(title); }, delayInMilliSeconds);
 };
 
 newTitle('I changed my title');
