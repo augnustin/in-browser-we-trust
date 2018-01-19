@@ -136,6 +136,16 @@ It is available **on every website**
   <p>Decentralized => No need to register to a store</p>
 </div>
 
+---?image=assets/image/Block-CDN.jpg
+
+<div class="inverted-colors">
+  <h2>3. Publish > Update</h2>
+
+  <p>To update, you simply need to replace the file on the server</p>
+
+  <p>=> No need to publish a new version and hope that the user will upgrade</p>
+</div>
+
 ---
 
 ## 4. Apps > The new era
