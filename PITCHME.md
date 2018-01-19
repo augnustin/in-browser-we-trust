@@ -4,6 +4,8 @@
 
 ### Tame the beast!
 
+https://gitpitch.com/augnustin/in-browser-we-trust
+
 ---
 
 ## Embrace the Web's openess
@@ -107,7 +109,7 @@ Let's try it
 
 ## 2. Debug > Everything's accessible
 
-Let's open a debugger console: type `Ctrl` + `Shift` + `i`.
+Let's open a debugger console: type `Ctrl`/`Cmd` + `Shift` + `i`.
 
 It is available **on every website**
 
