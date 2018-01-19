@@ -24,9 +24,11 @@
 
 .reveal .slides section .inverted-colors h2 {
   color: #fefeff;
+  text-shadow: 0 0 10px black;
 }
 .reveal .slides section .inverted-colors p {
   color: #fefeff;
+  text-shadow: 0 0 10px black;
 }
 
 .reveal .slides section .code-presenting-annotation {
