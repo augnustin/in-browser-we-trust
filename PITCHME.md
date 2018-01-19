@@ -11,14 +11,15 @@
 1. Easier to code
 2. Easier to debug
 3. Easier to publish & update
+4. And now we make apps
 
 It's perfect then?
 
-Everything comes at a cost, we'll finish with the tradeoffs.
+Everything comes at a cost, we'll discuss the tradeoffs.
 
 ---
 
-## 1. > You know HTML
+## 1. Code > You know HTML
 
 ```html
 <!DOCTYPE html>
@@ -37,7 +38,7 @@ HTML is the **semantic** description of the page.
 
 ---
 
-## 1. > You know CSS, right?
+## 1. Code > You know CSS, right?
 
 ```
   body {
@@ -55,7 +56,7 @@ CSS describes the styling rules of the page (color, sizes, positions etc. etc.).
 
 ---
 
-## 1. > Move your body
+## 1. Code > Move your body
 
 But this is all very static.
 
@@ -67,7 +68,7 @@ JS **is** the web's language
 
 ---
 
-## 1. > Have you tried JS?
+## 1. Code > Have you tried JS?
 
 ```javascript
 
@@ -90,7 +91,7 @@ delayedNewTitle('World', 2000);
 
 ---
 
-## 1. > Java**Script**
+## 1. Code > Java**Script**
 
 It is a scripting language!
 
@@ -100,7 +101,7 @@ Freedom!
 
 ---
 
-## 2. > Everything's accessible
+## 2. Debug > Everything's accessible
 
 Let's open a debugger console: type `Ctrl` + `Shift` + `i`.
 
@@ -108,7 +109,7 @@ It is available **on every website**
 
 ---
 
-## 2. > What is there?
+## 2. Debug > What is there?
 
 - DOM (HTML content)
 - Styles (CSS content)
@@ -123,7 +124,7 @@ It is available **on every website**
 
 ---
 
-## 3. > Publishing
+## 3. Publish > The URL magic
 
 To publish, you basically only need a URL.
 
@@ -131,16 +132,39 @@ To publish, you basically only need a URL.
 
 ---
 
-## 4. > Caveats
+## 4. Apps > The new era
+
+Thanks to frameworks like [React](https://reactjs.org/) or [Angular](https://angularjs.org/).
+
+Examples:
+- gmail
+- slack
+- deezer
+- google maps
+- etc.
+
+---
+
+## Practice!
+
+Let's create a page that displays a Chuck Norris Joke.
+
+---
+
+## 5. > Caveats
 
 - Browser compatibility
 - JS is flexible, ... too much!
 
----
+---?image=assets/image/lukas_blazek.jpg
 
 ## Questions?
 
+<br>
 
+@fa[url gp-contact](https://augustin-riedinger.fr)
+
+@fa[twitter gp-contact](@augnustin)
 
 ## Architecture
 
