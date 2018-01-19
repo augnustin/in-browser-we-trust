@@ -134,7 +134,7 @@ It is available **on every website**
 ---?image=assets/image/Block-CDN.jpg
 
 <div class="inverted-colors">
-  <h2>## 3. Publish > The URL magic</h2>
+  <h2>3. Publish > The URL magic</h2>
 
   <p>To publish, you basically only need a URL.</p>
 

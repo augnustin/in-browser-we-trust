@@ -22,7 +22,10 @@
   border-radius: 10px;
 }
 
-.reveal .slides section .inverted-colors {
+.reveal .slides section .inverted-colors h2 {
+  color: #fefeff;
+}
+.reveal .slides section .inverted-colors p {
   color: #fefeff;
 }
 
