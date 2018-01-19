@@ -76,14 +76,24 @@ How can I bring life to my webpage?
 
 ---
 
-## 1. Code > JS, the web's language
+## 1. Code > Java**Script**
 
+> "Java and Javascript are similar like Car and Carpet are similar."
 
+It is a scripting language!
+
+No need to inherit from a specific class, to compile or to predeclare anything.
 ```javascript
 var newTitle = function(title) {
   document.title = title;
   document.querySelector('h1').innerText = title;
 };
+
+---
+
+## 1. Code > JS, the web's language
+
+
 
 var delayedNewTitle = function(title, delayInMilliSeconds){
   setTimeout(function(){ newTitle(title); }, delayInMilliSeconds);
@@ -96,16 +106,6 @@ delayedNewTitle('World', 2000);
 ```
 
 Let's try it
-
----
-
-## 1. Code > Java**Script**
-
-> "Java and Javascript are similar like Car and Carpet are similar."
-
-It is a scripting language!
-
-No need to inherit from a specific class, to compile or to predeclare anything.
 
 ---
 
