@@ -4,6 +4,8 @@
 
 ### Tame the beast!
 
+> Source code of this presentation: https://gitpitch.com/augnustin/in-browser-we-trust
+
 ---
 
 ## Embrace the Web's openess
@@ -170,5 +172,3 @@ Let's create a page that displays a Chuck Norris Joke.
 @fa[link gp-contact](https://augustin-riedinger.fr)
 
 @fa[twitter gp-contact]([@augnustin](https://twitter.com/Augnustin))
-
-Source code of this presentation: https://gitpitch.com/augnustin/in-browser-we-trust
