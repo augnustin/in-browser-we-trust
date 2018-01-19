@@ -5,10 +5,10 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
- section {
+/* section {
   color: rgba(236, 240, 241,1.0);
  }
-
+*/
 .reveal pre {
   width: 100%;
 }

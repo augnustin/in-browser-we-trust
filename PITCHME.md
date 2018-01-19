@@ -34,7 +34,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 </html>
 ```
 
-HTML is the **semantic** description of the page.
+> HTML is the **semantic** description of the page.
 
 ---
 
