@@ -13,7 +13,9 @@
 3. Easier to publish & update
 4. And now we make apps
 
-It's perfect then?
+Is it perfect then?
+
+![](assets/image/smiling-face-with-heart-eyes.png)
 
 Everything comes at a cost, we'll discuss the tradeoffs.
 
