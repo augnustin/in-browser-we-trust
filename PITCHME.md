@@ -163,7 +163,7 @@ Let's create a page that displays a Chuck Norris Joke.
 - Browser compatibility
 - JS is flexible, ... too much!
 
----?image=assets/image/maarten_deckers.jpg
+---
 
 ## Questions?
 
