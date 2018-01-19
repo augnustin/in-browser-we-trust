@@ -10,12 +10,6 @@
  }
 */
 
-.reveal blockquote {
-  /*background: rgba(0, 0, 0, 0.5);*/
-  color: #cbd2d8;
-  text-shadow: 0 0 10px black;
-}
-
 .reveal pre {
   width: 100%;
 }
