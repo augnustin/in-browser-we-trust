@@ -10,6 +10,10 @@
  }
 */
 
+section img {
+  border: none;
+}
+
 .reveal pre {
   width: 100%;
 }
