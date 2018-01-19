@@ -33,9 +33,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
   <h1>My Title</h1>
   <p>My paragraph</p>
   <img src="image.jpg" alt="My image" />
-  <ul>
-    <li>My list element</li>
-  </ul>
+  <button>My Button</button>
 </body>
 </html>
 ```
@@ -80,7 +78,7 @@ How can I bring life to my webpage?
 
 > "Java and Javascript are similar like Car and Carpet are similar."
 
-It is a scripting language!
+It is a **scripting** language!
 
 No need to inherit from a specific class, to compile or to predeclare anything.
 ```javascript
