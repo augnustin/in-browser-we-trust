@@ -62,7 +62,9 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 
 But this is all very static.
 
-How can I bring life to my webpage? |
+How can I bring life to my webpage?
+
+![](assets/image/giphy.gif)
 
 Javascript of course!
 
