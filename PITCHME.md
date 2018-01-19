@@ -169,6 +169,6 @@ Let's create a page that displays a Chuck Norris Joke.
 
 <br>
 
-@fa[url gp-contact](https://augustin-riedinger.fr)
+@fa[link gp-contact](https://augustin-riedinger.fr)
 
 @fa[twitter gp-contact](@augnustin)
