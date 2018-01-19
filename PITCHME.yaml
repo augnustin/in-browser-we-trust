@@ -7,8 +7,7 @@
 theme : beige
 theme-override : assets/css/PITCHME.css
 highlight : hybrid
-logo : assets/image/logo.png
 background : assets/image/felicia_d_ascanio.jpg
 transition : none
 published : true
-footnote : "GitPitch [ Timber ] Presentation Template"
+footnote : "In browser we trust @ Wild Code School"
