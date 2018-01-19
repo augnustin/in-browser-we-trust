@@ -4,7 +4,7 @@
 
 ### Tame the beast!
 
-https://gitpitch.com/augnustin/in-browser-we-trust
+https://github.com/augnustin/in-browser-we-trust
 
 ---
 
@@ -196,4 +196,4 @@ Online (the web is full of resources):
 
 @fa[twitter gp-contact]() [@augnustin](https://twitter.com/Augnustin)
 
-> Source code of this presentation: https://gitpitch.com/augnustin/in-browser-we-trust
+> Source code of this presentation: https://github.com/augnustin/in-browser-we-trust
