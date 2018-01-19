@@ -66,9 +66,11 @@ How can I bring life to my webpage?
 
 ![](assets/image/giphy.gif)
 
+<div class="fragment">
 Javascript of course!
 
 JS **is** the web's language
+</div>
 
 ---
 
