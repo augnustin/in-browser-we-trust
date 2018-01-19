@@ -167,8 +167,8 @@ Let's create a page that displays a Chuck Norris Joke.
 
 ## Questions?
 
-<br>
-
 @fa[link gp-contact](https://augustin-riedinger.fr)
 
 [@fa[twitter gp-contact](@augnustin)](https://twitter.com/Augnustin)
+
+Source code of this presentation: https://gitpitch.com/augnustin/mobile-vs-web
