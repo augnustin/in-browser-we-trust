@@ -120,18 +120,18 @@ It is available **on every website**
 
 ## 2. Debug > What is there?
 
-- DOM (HTML content)
-- Styles (CSS content)
-- Console (JS REPL)
-- Source files
-- Network logguer
-- Performance analyser
+- DOM (HTML content) |
+- Styles (CSS content) |
+- Console (JS REPL) |
+- Source files |
+- Network logguer |
+- Performance analyser |
 - Memory analyser
 - ... and much more!
 
 => This is a very powerful tool!
 
----
+---?image=assets/image/Block-CDN.jpg
 
 ## 3. Publish > The URL magic
 
