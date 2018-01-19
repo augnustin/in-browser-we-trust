@@ -84,7 +84,7 @@ No need to inherit from a specific class, to compile or to predeclare anything.
 
 ---
 
-## 1. Code > JS, the web's language
+## 1. Code > a JS Snippet
 
 ```javascript
 var newTitle = function(title) {
@@ -117,7 +117,7 @@ It is available **on every website**
 
 - DOM (HTML content) |
 - Styles (CSS content) |
-- Console (JS REPL) |
+- Console JS |
 - Source files |
 - Network logguer |
 - Performance analyser |
@@ -133,7 +133,7 @@ It is available **on every website**
 
   <p>To publish, you basically only need a URL.</p>
 
-  <p>=> No need to register to a store</p>
+  <p>Decentralized => No need to register to a store</p>
 </div>
 
 ---
@@ -159,8 +159,9 @@ Let's create a page that displays a Chuck Norris Joke thanks to the [Chuck Norri
 
 ## Caveats
 
-- Browser compatibility
-- JS is flexible, ... too much!
+- Browser compatibility: Internet Explorer, mobile browsers etc.
+- JS is flexible, ... too much?: No type, global variables
+- Code is client-side: the developer can only *suggest* a behavior
 
 ---
 
