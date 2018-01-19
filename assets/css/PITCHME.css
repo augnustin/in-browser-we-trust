@@ -10,6 +10,12 @@
   background-position: 0px -70px;
 }
 */
+
+.reveal section:first-child a {
+  color: #5c4d28;
+  font-size: 0.8em;
+}
+
 .reveal section img {
    border: 0;
    box-shadow: none;
