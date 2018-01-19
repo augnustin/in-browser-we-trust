@@ -19,7 +19,7 @@ Is it perfect then?
 
 Everything comes at a cost, we'll discuss the tradeoffs.
 
----?image=assets/image/felicia_d_ascanio.jpg
+---
 
 ## 1. Code > You know HTML
 
@@ -38,7 +38,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 
 > HTML is the **semantic** description of the page.
 
----?image=assets/image/felicia_d_ascanio.jpg
+---
 
 ## 1. Code > You know CSS, right?
 
@@ -56,7 +56,7 @@ Everything comes at a cost, we'll discuss the tradeoffs.
 
 > CSS describes the styling rules of the page (color, sizes, positions etc. etc.).
 
----?image=assets/image/felicia_d_ascanio.jpg
+---
 
 ## 1. Code > Move your body
 
@@ -68,7 +68,7 @@ Javascript of course!
 
 JS **is** the web's language
 
----?image=assets/image/felicia_d_ascanio.jpg
+---
 
 ## 1. Code > Have you tried JS?
 
