@@ -96,7 +96,7 @@ delayedNewTitle('World', 2000);
 
 Let's try it
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 1. Code > Java**Script**
 
@@ -106,7 +106,7 @@ It is a scripting language!
 
 No need to inherit from a specific class, to compile or to predeclare anything.
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 2. Debug > Everything's accessible
 
@@ -114,7 +114,7 @@ Let's open a debugger console: type `Ctrl` + `Shift` + `i`.
 
 It is available **on every website**
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 2. Debug > What is there?
 
@@ -129,7 +129,7 @@ It is available **on every website**
 
 => This is a very powerful tool!
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 3. Publish > The URL magic
 
@@ -137,7 +137,7 @@ To publish, you basically only need a URL.
 
 => No need to register to a store
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 4. Apps > The new era
 
@@ -150,13 +150,13 @@ Examples:
 - google maps
 - etc.
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## Practice!
 
 Let's create a page that displays a Chuck Norris Joke.
 
----?image=assets/image/lukas_blazek.jpg
+---
 
 ## 5. > Caveats
 
