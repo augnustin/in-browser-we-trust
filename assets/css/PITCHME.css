@@ -22,6 +22,10 @@
   border-radius: 10px;
 }
 
+.reveal .slides section .inverted-colors {
+  color: #fefeff;
+}
+
 .reveal .slides section .code-presenting-annotation {
   color: white;
   background: black;
