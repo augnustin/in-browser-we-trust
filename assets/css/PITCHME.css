@@ -5,6 +5,11 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
+.reveal .backgrounds .slide-background:first-child {
+  background-size: 110%;
+  background-position: 0px -70px;
+}
+
 .reveal section img {
    border: 0;
    box-shadow: none;
