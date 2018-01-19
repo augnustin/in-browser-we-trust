@@ -153,18 +153,20 @@ Examples:
 
 ## Practice!
 
-Let's create a page that displays a Chuck Norris Joke.
+Let's create a page that displays a Chuck Norris Joke thanks to the [Chuck Norris API](http://www.icndb.com/api/).
 
 ---
 
-## 5. > Caveats
+## Caveats
 
 - Browser compatibility
 - JS is flexible, ... too much!
 
 ---
 
-## Questions?
+## Go learn it!
+
+Questions?
 
 @fa[link gp-contact]() https://augustin-riedinger.fr
 
