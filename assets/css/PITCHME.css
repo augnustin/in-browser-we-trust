@@ -10,6 +10,10 @@
  }
 */
 
+.slides section:first-child blockquote {
+  position: absolute;
+}
+
 section img {
   border: none;
 }
